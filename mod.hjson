@@ -1,26 +1,8 @@
-# The displayed name of this mod in the mod list.
-displayName: "Mindustry Java Mod Template"
-
-# The internal name of this mod. Only use small a-z letters, numbers and dashes.
-name: "mindustry-java-template"
-
-# The author of this mod. Usually, that would be you.
-author: "You"
-
-# The fully qualified class path to this mod's main class.
-main: "example.Template"
-
-# The description of this mod, displayed when viewing information about it.
-description: "A Java mod template."
-
-# The subtitle of this mod, displayed below its name in the mod list.
-subtitle: "Distinctly Java, probably."
-
-# The current version of this mod. Letters, numbers and symbols may be used.
-version: 0
-
-# The required minimum game version to run this mod.
-minGameVersion: 149
-
-# If specified, this mod identifies as a Java/JVM mod. 
+displayName: "LogUp"
+name: "logup"
+author: "SMOLKEYS"
+main: "log.LogUp"
+description: "More loggy Mindustry logging."
+version: 1
+minGameVersion: 147
 java: true
